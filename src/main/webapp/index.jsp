@@ -7,7 +7,7 @@
 
 <body bgcolor="#F40707">
 <center>
-<h2> <font color="#FAFAF9"> Welcome TO SuriyaVinay web testing project  </font> </h2>
+<h2> <font color="#FAFAF9"> Welcome tO SuriyaVinay web testing project  </font> </h2>
 </center>	
 </body>
 </html>
