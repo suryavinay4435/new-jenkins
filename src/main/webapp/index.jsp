@@ -36,7 +36,7 @@
 
 <body>
 <center>
-    <h2>Welcome to VinayKumar's Web Testing Project</h2>
+    <h2>Welcome to Suryavinay's Web Testing Project</h2>
     <p>This project showcases the integration of DevOps practices to streamline the deployment process.</p>
     
     <div class="project-overview">
