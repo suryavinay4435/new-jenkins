@@ -4,29 +4,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
-            background-color: #F40707;
-            color: #FAFAF9;
+            background-color: #2C3E50; /* Dark Blue */
+            color: #ECF0F1; /* Light Gray */
         }
         .project-overview {
-            background-color: #FF5733; /* Lighter Red */
+            background-color: #E74C3C; /* Bright Red */
             padding: 15px;
             margin: 10px 0;
             border-radius: 5px;
         }
         .key-features {
-            background-color: #FFC300; /* Gold */
+            background-color: #F39C12; /* Orange */
             padding: 15px;
             margin: 10px 0;
             border-radius: 5px;
         }
         .benefits {
-            background-color: #28B463; /* Green */
+            background-color: #27AE60; /* Green */
             padding: 15px;
             margin: 10px 0;
             border-radius: 5px;
         }
         .get-started {
-            background-color: #3498DB; /* Blue */
+            background-color: #2980B9; /* Blue */
             padding: 15px;
             margin: 10px 0;
             border-radius: 5px;
