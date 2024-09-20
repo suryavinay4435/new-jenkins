@@ -2,28 +2,67 @@
 <head>
     <title>DevOps Deployment</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            background-color: #F40707;
+            color: #FAFAF9;
+        }
+        .project-overview {
+            background-color: #FF5733; /* Lighter Red */
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+        .key-features {
+            background-color: #FFC300; /* Gold */
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+        .benefits {
+            background-color: #28B463; /* Green */
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+        .get-started {
+            background-color: #3498DB; /* Blue */
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+    </style>
 </head>
 
-<body bgcolor="#F40707">
+<body>
 <center>
-    <h2><font color="#FAFAF9">Welcome to VinayKumar's Web Testing Project</font></h2>
-    <p><font color="#FAFAF9">This project showcases the integration of DevOps practices to streamline the deployment process.</font></p>
-    <h3><font color="#FAFAF9">Project Overview</font></h3>
-    <p><font color="#FAFAF9">Our goal is to demonstrate a proof of concept (PoC) for a robust CI/CD pipeline, utilizing Ansible for production deployment. By implementing automated testing and deployment, we aim to enhance the efficiency and reliability of our software delivery process.</font></p>
+    <h2>Welcome to VinayKumar's Web Testing Project</h2>
+    <p>This project showcases the integration of DevOps practices to streamline the deployment process.</p>
     
-    <h3><font color="#FAFAF9">Key Features</font></h3>
-    <ul>
-        <li><font color="#FAFAF9">Automated deployment using Ansible playbooks.</font></li>
-        <li><font color="#FAFAF9">Integration with CI/CD tools for continuous integration and delivery.</font></li>
-        <li><font color="#FAFAF9">Real-time monitoring and logging of deployment processes.</font></li>
-        <li><font color="#FAFAF9">Automated testing to ensure code quality and functionality.</font></li>
-    </ul>
+    <div class="project-overview">
+        <h3>Project Overview</h3>
+        <p>Our goal is to demonstrate a proof of concept (PoC) for a robust CI/CD pipeline, utilizing Ansible for production deployment. By implementing automated testing and deployment, we aim to enhance the efficiency and reliability of our software delivery process.</p>
+    </div>
 
-    <h3><font color="#FAFAF9">Benefits</font></h3>
-    <p><font color="#FAFAF9">This project highlights the importance of DevOps in accelerating development cycles, reducing errors, and facilitating seamless collaboration between development and operations teams.</font></p>
+    <div class="key-features">
+        <h3>Key Features</h3>
+        <ul>
+            <li>Automated deployment using Ansible playbooks.</li>
+            <li>Integration with CI/CD tools for continuous integration and delivery.</li>
+            <li>Real-time monitoring and logging of deployment processes.</li>
+            <li>Automated testing to ensure code quality and functionality.</li>
+        </ul>
+    </div>
 
-    <h3><font color="#FAFAF9">Get Started</font></h3>
-    <p><font color="#FAFAF9">To learn more about our approach and methodologies, please refer to the documentation or reach out to the team.</font></p>
+    <div class="benefits">
+        <h3>Benefits</h3>
+        <p>This project highlights the importance of DevOps in accelerating development cycles, reducing errors, and facilitating seamless collaboration between development and operations teams.</p>
+    </div>
+
+    <div class="get-started">
+        <h3>Get Started</h3>
+        <p>To learn more about our approach and methodologies, please refer to the documentation or reach out to the team.</p>
+    </div>
 </center>
 </body>
 </html>
